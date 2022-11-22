@@ -1,0 +1,1 @@
+  docker run -d -p 8080:80 -v C:\Ussers\healgo\Halborsexam/:/usr/share/nginx/html/ nginx
